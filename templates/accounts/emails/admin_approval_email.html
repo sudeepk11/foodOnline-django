@@ -1,0 +1,22 @@
+{% autoescape off %}
+{% if is_approved %}
+
+Hi {{user.first_name}}, Congratulations! Your Restaurant Has Been Approved by our admin team foodOnline.
+We Wish you all the best for your Business.
+
+Regards,
+Sudeep Kulkarni
+CEO foodOnline
+
+{% else %}
+
+Hi {{user.first_name}}, Sorry! Your Restaurant Has not Been Approved by our admin team foodOnline.
+For more details contact us at: support@foodOnline.com
+
+Regards,
+Sudeep Kulkarni
+CEO foodOnline
+{% endif %}
+
+
+{% endautoescape %}
