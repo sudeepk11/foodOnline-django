@@ -41,7 +41,7 @@ Dynamic Business hours module with AJAX
 Dynamic Tax Module
 
 Customers app and profile building
-<img width="592" alt="Screenshot 2022-08-15 at 8 53 14 PM" src="https://user-images.githubusercontent.com/79464046/184665158-e394c6ab-8405-404c-be40-63ea046b6b61.png">
+
 
 Orders model and checkout page
 
@@ -58,4 +58,7 @@ ManyToMany Relationship & Vendor Dashboard
 Custom middleware, total revenue per vendor, current month's revenue
 
 Integrating Email Templates
+
+
+<img width="592" alt="Screenshot 2022-08-15 at 8 53 14 PM" src="https://user-images.githubusercontent.com/79464046/184665158-e394c6ab-8405-404c-be40-63ea046b6b61.png">
 
